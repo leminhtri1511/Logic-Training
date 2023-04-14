@@ -18,7 +18,7 @@ int find_sum(int a[], int n)
 	cout << "\n\nTong cua mang A[]: ";
 	return sum;
 }
-87878kkk
+
 //CAU 2
 bool check_increase(int a[], int n)
 {
